@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3338/xr_oauth_test?characterEncoding=UTF-8
+    username: tcloud
+    password: tcloud1111
+
